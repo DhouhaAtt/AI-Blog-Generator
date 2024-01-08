@@ -16,7 +16,7 @@
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/DhouhaAtt/ai-generator-blog.git
+git clone https://github.com/DhouhaAtt/AI-Blog-Generator.git
 ```
 ```
 cd ai-generator-blog
